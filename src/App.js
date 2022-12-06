@@ -10,7 +10,7 @@ const App = () => {
   const[recipes, setRecipes] = useState([]);
   const [alert, setAlert] = useState("");
 
-  const APP_ID = "ac6e0bbd";
+  const APP_ID = "your_API_ID";
 
   const APP_KEY = "your_API_KEY";
 
